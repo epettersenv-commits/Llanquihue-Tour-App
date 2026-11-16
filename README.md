@@ -35,7 +35,7 @@ Actividad formativa de la Semana 4 de *Desarrollo Orientado a Objetos I* (Duoc U
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/epettersenv-commits/Llanquihue-Tour
+git clone https://github.com/epettersenv-commits/Llanquihue-Tour-App
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -46,7 +46,7 @@ git clone https://github.com/epettersenv-commits/Llanquihue-Tour
 
 ---
 
-**Repositorio GitHub:** https://github.com/epettersenv-commits/Llanquihue-Tour
+**Repositorio GitHub:** https://github.com/epettersenv-commits/Llanquihue-Tour-App
 **Fecha de entrega:** 16/11/2026
 
 ---
