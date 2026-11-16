@@ -1,0 +1,8 @@
+Ruta del Kuchen y Café;Gastronómico;25000;12
+Paseo Lacustre Lago Llanquihue;Lacustre;35000;8
+Cata de Cervezas Artesanales;Gastronómico;28000;0
+Excursión Volcán Osorno;Aventura;65000;6
+Tour Cultural Frutillar;Cultural;30000;15
+Ruta de Mariscos en Puerto Montt;Gastronómico;42000;10
+Navegación al Atardecer;Lacustre;45000;0
+Tour Cultural Puerto Varas;Cultural;22000;20
